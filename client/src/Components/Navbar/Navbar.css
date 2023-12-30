@@ -78,3 +78,10 @@
     margin: 0;
     border-radius: 0.1rem;
 }
+.Chanel_logo_App{
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 100%;
+    background-color: rgb(224, 227,214);
+    display: flex;
+}

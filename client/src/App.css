@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.fstChar_logo_App{
+  margin: auto;
+  color: black;
+  font-weight: bolder;
+  cursor: pointer;
+}
