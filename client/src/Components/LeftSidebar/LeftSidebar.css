@@ -1,0 +1,28 @@
+.container-left_sidebar{
+    background-color: rgb(25,25,25);
+    width: 4.7rem;
+    height: calc(100vh - 3.55rem);
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+.icon-sidebar-div{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+.icons-sidebar{
+    margin: auto;
+}
+.text-sidebar-icon{
+    text-align: center;
+    font-weight: 300;
+    font-size: 0.85rem;
+    padding: 0.2rem;
+}
+.icon-sidebar-div:hover,
+.icon-sidebar-div:active{
+    color: aliceblue;
+}
